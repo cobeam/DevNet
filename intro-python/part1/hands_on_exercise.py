@@ -39,8 +39,12 @@ def myFun(num1, num2):
 
 # TODO: Now call the function a few times to calculate the following answers
 
-print("12 x 96 =", myFun(12, 96))
+print("\n12 x 96 =", myFun(12, 96))
 
 print("48 x 17 =", myFun(48, 17))
 
 print("196523 x 87323 =", myFun(196523,87323))
+
+
+
+
